@@ -21,7 +21,7 @@ This project provides a simple backend system for **invite-based user registrati
 Send an invite to a user's email.
 ### 🔹 `POST /users/invite`
 
-Invitee register vai this endpoint with their token from the invite
+Invitee register via this endpoint with their token from the invite
 ### 🔹 `POST /users/register/:token'`
 
 
